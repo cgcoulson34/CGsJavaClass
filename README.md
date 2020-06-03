@@ -1,4 +1,5 @@
 # CGsJavaClass
+
 Learn Java for FTC and REV Robotics Programming.
 This is for me to learn, then adapt for Curriculum and Robotics Team
 1) Start with the GitHub tutorial
